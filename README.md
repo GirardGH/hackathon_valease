@@ -1,4 +1,4 @@
-<h1> ValEase | Gagnant du Hackathon de Toulouse </h1>
+<h1> ValEase | Gagnant du Hackathon de Toulouse 🏆 </h1>
 <h2>(édition 2022©)</h2>
 
 <br/>
