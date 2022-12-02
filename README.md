@@ -1,4 +1,5 @@
-<h1> ValEase | Gagnant du Hackathon de Toulouse (édition 2022)</h1>
+<h1> ValEase | Gagnant du Hackathon de Toulouse </h1>
+<h2>(édition 2022©)</h2>
 
 <br/>
 Application web & mobile qui a reçu le 1er prix 🥇 du jury lors de l’édition 2022 du hackathon de Toulouse basé sur le thème du voyage. 
